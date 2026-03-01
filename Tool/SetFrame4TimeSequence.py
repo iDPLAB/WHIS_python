@@ -1,3 +1,6 @@
+# Copyright (c)the Lab of Intelligent Data Processing, Wakayama University.
+# All rights reserved.
+
 import numpy as np
 
 def SetFrame4TimeSequence(Snd, LenWin, LenShift=None):

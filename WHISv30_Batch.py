@@ -1,3 +1,6 @@
+# Copyright (c)the Lab of Intelligent Data Processing, Wakayama University.
+# All rights reserved.
+
 from WHISv30_MkCalibTone import WHISv30_MkCalibTone
 from WHISv30_GetSrcSndNrmlz2CalibTone import WHISv30_GetSrcSndNrmlz2CalibTone
 from WHISv302 import WHISv302

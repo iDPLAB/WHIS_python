@@ -1,4 +1,7 @@
-import numpy as np
+# Copyright (c)the Lab of Intelligent Data Processing, Wakayama University.
+# All rights reserved.
+
+
 from dataclasses import dataclass, field
 from typing import List
 import numpy as np

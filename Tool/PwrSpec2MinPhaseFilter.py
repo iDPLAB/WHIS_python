@@ -1,5 +1,7 @@
+# Copyright (c)the Lab of Intelligent Data Processing, Wakayama University.
+# All rights reserved.
+
 import numpy as np
-from scipy.fft import fft, ifft
 
 def pwr_spec_to_min_phase_filter(freq, power_spectrum, fs):
     # 检查输入长度是否匹配
